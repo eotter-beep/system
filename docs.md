@@ -192,9 +192,8 @@ install("apt", "python3-psutil, python3-requests")
 
 ## Version
 
-- **Author:** Custom Utility Module
+- **Author:** eotter-beep
 - **Python:** 3.6+
-- **Status:** Functional, not for production without review
 
 ---
 
